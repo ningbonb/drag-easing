@@ -1,0 +1,24 @@
+{
+  "name": "drag-easing",
+  "version": "1.0.0",
+  "description": "移动端拖拽缓动组件",
+  "main": "lib/drag-easing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ningbonb/drag-easing.git"
+  },
+  "keywords": [
+    "drag",
+    "easeing",
+    "ts"
+  ],
+  "author": "ningbo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ningbonb/drag-easing/issues"
+  },
+  "homepage": "https://github.com/ningbonb/drag-easing#readme"
+}
