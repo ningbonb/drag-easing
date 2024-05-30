@@ -8,6 +8,7 @@ declare namespace DragEasing{
         minY?: number,
         maxY?: number,
         easingRatio?: number,
+        moveRatio?: number,
         onDragging?: (e: any) => void,
     }
 }

@@ -42,6 +42,7 @@ const de = new DragEasing({
 - `minY` - 设限 `y` 方向最小值，默认 `null` 不限制
 - `minY` - 设限 `y` 方向最大值，默认 `null` 不限制
 - `easingRatio` - 缓动减缓的速率，默认 `0.1`
+- `moveRatio` - 拖拽移动的速率，默认 `1`
 - `onDragging` - 获取拖拽数据的回调函数
 
 ## 示例
